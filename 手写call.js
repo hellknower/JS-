@@ -28,4 +28,4 @@ Function.prototype.newCall = function(obj,arg){
   }
   let b = {};
   
-  a.s.newCall(b);
+  a.s.newCall(b);//asd
